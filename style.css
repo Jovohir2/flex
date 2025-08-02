@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    
+} 
+
+.box div{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
+
+footer{
+     display: flex;
+    justify-content: space-around;
+}
+
